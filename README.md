@@ -1,6 +1,6 @@
 # Spring Boot Thymeleaf Example
 
-This repository showcases a simple and modern Spring Boot app with Thymeleaf for managing books. Bootstrap is included as a WebJar for styling the page.
+This repository showcases a simple and modern Spring Boot app with Thymeleaf for managing books. Bootstrap is included as a WebJar for styling all pages.
 
 * using the Thymeleaf Layout Dialect, `layout.html` is applied as the page template  
 * an `inputRow` fragment in `fragments/forms.html` helps with form setup
